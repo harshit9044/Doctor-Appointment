@@ -1,0 +1,36 @@
+@charset "ISO-8859-1";
+#left{
+	background-color:#8080ff;
+	text-align:center;
+	width:50%;
+	float:left;
+	height : 300px;
+}
+
+#right{
+	background-color: yellow ;
+	width:50%;
+	float:right;
+	height : 300px ;
+}
+
+#bottom{
+	background-color : purple;
+	width : 50% ;
+	float:left;
+	height : 300px ;
+}
+
+#bottomright{
+	background-color : pink;
+	width : 50% ;
+	float : right ;
+	height : 300px ;
+}
+
+#msgdisplay{
+	height : 300px;
+	width : 260px;
+	background-color : #c0c0c0;
+	overflow : scroll;
+}

@@ -1,0 +1,24 @@
+@charset "ISO-8859-1";
+
+#2{
+	background-color : red;
+	text-align : center;
+}
+
+form{
+	background-color : pink ;
+	text-align : center;
+}
+
+h2{
+	text-align : center;
+	background-color: yellow ;
+	height : 80px;
+}
+
+#msgdisplay{
+	height : 300px;
+	width : 260px;
+	background-color : #c0c0c0;
+	overflow : scroll;
+}
